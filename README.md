@@ -23,3 +23,7 @@
 <img src="icons/error.png" width="100">
 
 <a href="https://www.flaticon.com/free-icons/cancel" title="cancel icons">Cancel icons created by Freepik - Flaticon</a>
+
+### Exasol
+
+<img src="icons/exasol.png" width="100">
